@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Dulakshi Samarasekara",
+        "age": 20,
+        "address": "No. 131/1, Old Road, Kalutara South",
+        "cgpa": "3.6"
+    },
+
+    {
+        "id": 2,
+        "name": "Sanjula Manamperi",
+        "age": 22,
+        "address": "No. 1/41, Yatinuwara Street ,Kandy",
+        "cgpa": "3.8"
+    },
+
+    {
+        "id": 3,
+        "name": "Roshini Weerasinghe",
+        "age": 21,
+        "address": "No. 193, Middeniya Road, Navanagaraya, Embilipitiya",
+        "cgpa": "3.4"
+    },
+
+    {
+        "id": 4,
+        "name": "Risara Perera",
+        "age": 19,
+        "address": "No. 134/1, High Level Road, Maharagama",
+        "cgpa": "3.2"
+    },
+
+    {
+        "id": 5,
+        "name": "Rashmini Fernando",
+        "age": 20,
+        "address": "4A, Rahula Crose Rd, Matara",
+        "cgpa": "3.3"
+    },
+
+    {
+        "id": 6,
+        "name": "Lal Samantha",
+        "age": 21,
+        "address": "25 D 1/1, Dharmasiri Senanayake Mawatha, Warakapola",
+        "cgpa": "3.2"
+    },
+
+    {
+        "id": 7,
+        "name": "Omesha Bandara",
+        "age": 22,
+        "address": "No. 97, Jawaththa Road, Colombo 05",
+        "cgpa": "2.9"
+    },
+
+    {
+        "id": 8,
+        "name": "Semini Anoma",
+        "age": 19,
+        "address": "No. 96/A, Mahiyangana Road, Badulla",
+        "cgpa": "2.6"
+    },
+
+    {
+        "id": 9,
+        "name": "Aloka Kithmina",
+        "age": 20,
+        "address": "No. 131/1, Old Road, Kaluthara South",
+        "cgpa": "2.4"
+    },
+
+    {
+        "id": 10,
+        "name": "Chaminda Isuru",
+        "age": 20,
+        "address": "No. 78, Old Colombo Road, Yatiyanthota",
+        "cgpa": "2.4"
+    }
+]
+
